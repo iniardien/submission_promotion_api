@@ -7,10 +7,10 @@ import (
 	// "github.com/smkdev-id/promotion_tracking_dashboard/internal/app/delivery"
 	// "github.com/smkdev-id/promotion_tracking_dashboard/internal/app/repositories"
 	// "github.com/smkdev-id/promotion_tracking_dashboard/internal/app/services"
-	"submission_promotion_api/internal/app/configs"
-	"submission_promotion_api/internal/app/delivery"
-	"submission_promotion_api/internal/app/repositories"
-	"submission_promotion_api/internal/app/services"
+	"github.com/iniardien/submission_promotion_api/internal/app/repositories"
+	"github.com/iniardien/submission_promotion_api/internal/app/services"
+	"github.com/iniardien/submission_promotion_api/internal/configs"
+	"github.com/iniardien/submission_promotion_api/internal/delivery"
 )
 
 func main() {

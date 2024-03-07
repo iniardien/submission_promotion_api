@@ -1,4 +1,4 @@
-module submission_promotion_api
+module github.com/iniardien/submission_promotion_api
 
 go 1.22.0
 

@@ -1,7 +1,7 @@
 package mocks
 
 import (
-	"github.com/smkdev-id/promotion_tracking_dashboard/internal/app/models"
+	"github.com/iniardien/submission_promotion_api/internal/app/models"
 	"github.com/stretchr/testify/mock"
 )
 

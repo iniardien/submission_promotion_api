@@ -4,8 +4,8 @@ import (
 
 	// "github.com/smkdev-id/promotion_tracking_dashboard/internal/app/models"
 	// "github.com/smkdev-id/promotion_tracking_dashboard/internal/app/repositories"
-	"submission_promotion_api/internal/app/models"
-	"submission_promotion_api/internal/app/repositories"
+	"github.com/iniardien/submission_promotion_api/internal/app/models"
+	"github.com/iniardien/submission_promotion_api/internal/app/repositories"
 )
 
 // PromotionService provides promotion-related services

@@ -2,7 +2,7 @@ package repositories
 
 import (
 	// "github.com/smkdev-id/promotion_tracking_dashboard/internal/app/models"
-	"submission_promotion_api/internal/app/models"
+	"github.com/iniardien/submission_promotion_api/internal/app/models"
 
 	"gorm.io/gorm"
 )

@@ -3,8 +3,8 @@ package delivery
 import (
 	"net/http"
 
-	"submission_promotion_api/internal/app/handlers"
-	"submission_promotion_api/internal/app/services"
+	"github.com/iniardien/submission_promotion_api/internal/app/handlers"
+	"github.com/iniardien/submission_promotion_api/internal/app/services"
 
 	"github.com/labstack/echo/v4"
 	// "github.com/smkdev-id/promotion_tracking_dashboard/internal/app/handlers"

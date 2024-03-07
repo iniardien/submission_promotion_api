@@ -1,8 +1,10 @@
 package handlers
 
 import (
+	"github.com/iniardien/submission_promotion_api/internal/app/services"
+
 	"github.com/labstack/echo/v4"
-	"github.com/smkdev-id/promotion_tracking_dashboard/internal/app/services"
+	// "github.com/smkdev-id/promotion_tracking_dashboard/internal/app/services"
 )
 
 func PSQLCreatePromotionData(PromoService services.PromotionService) echo.HandlerFunc {
